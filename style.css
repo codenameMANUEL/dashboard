@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.nav-roll input{
+    width: 300px;
+    border: none;
+    padding: 0px 0px 0px 10px;
+    margin: 5px 0px 0px 0px;
+    outline: none;
+    border-radius: 7px;
+}
+.coltwo{
+    border-radius: 10px;
+}
+.boxtwo{
+    background-color: #0e7a0e3f;
+    text-align: center;
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.icon{
+    background-color: #417548;
+    margin: auto;
+    margin-top: 20px;
+    width: 25%;
+    border-radius: 5px;
+}
+.summary{
+    background-color: #0e7a0e3f;
+    border-radius: 10px;
+}
